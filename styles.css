@@ -32,7 +32,6 @@ h1 {
   float:left;
   width:50%;
   background-color: #9b59b6;
-  text-decoration: underline;
 }
 
 .features-content, .resources-content {
@@ -42,6 +41,10 @@ h1 {
 .features-content, .resources-content ul, a {
   line-height: 30px;
   color:white;
+}
+
+.features-heading, .resources-heading {
+  text-decoration: underline;
 }
 
 .resources {
